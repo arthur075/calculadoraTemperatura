@@ -16,7 +16,7 @@ public class Exercicio01 {
         System.out.println("Insira o seu nome: ");
         Scanner input = new Scanner(System.in);
         nomeUsuario = input.next();
-        System.out.println("Olá " + nomeUsuario + " seja bem vindo!");
+        System.out.println("Olá " + nomeUsuario + " seja bem vindo!!");
         System.out.println("Aqui você podera calcular temperaturas com base em graus celcius");
         System.out.println("insira o valor em graus Celcius: ");
         celcius = input.nextDouble();
